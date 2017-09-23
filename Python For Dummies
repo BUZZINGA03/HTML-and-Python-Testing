@@ -4,11 +4,6 @@
 			<title>Ayush's great website!</title>
 	</head>
 	<body>
-		<h3>Favorite Football Teams</h3>
-			<ol>
-				<li>The Hawthorn Football Club</li>
-				<li>San Franscisco 49ers</li>
-				<li>Barcelona FC</li>
-			</ol>
+		<h1>This is Ayush's website</h1>
 	</body>
 </html>
