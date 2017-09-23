@@ -4,6 +4,5 @@ body {
     font-style: impact
   }
   h4 {
-    font-family: cursive;
-  }
+    font-style: Comic
 }
