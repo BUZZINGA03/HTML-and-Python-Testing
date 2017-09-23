@@ -3,8 +3,10 @@
 	<head>
 		<title>Ayush's great website!</title>
 	</head>
-	<body>
-		<h1 style="background-color:blue">This is Ayush's website</h1>
+	<style
+		background:lavender;
+	</style> 
+		<h1>This is Ayush's amazing website</h1>
 
 	</body>
 </html>
