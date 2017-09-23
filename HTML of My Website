@@ -1,7 +1,9 @@
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<title>Ayush's great website!</title>
+		<link href="CSS of My Website" rel="stylesheet" type="text/css">
 	</head>
 		<h1>This is Ayush's amazing website</h1>
 
