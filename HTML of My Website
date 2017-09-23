@@ -4,10 +4,9 @@
 	<head>
 		<title>Ayush's great website!</title>
 		<link href="CSS of My Website" rel="stylesheet" type="text/css">
-		<link href="Python of My Website" rel="stylesheet" type="text/python">
 	</head>
 		<h1>This is Ayush's amazing website</h1>
-		<h4>So what I hope to do on this webstie is make it so that you have to login to get into the website I hope to do this with Python on the backend<h4>
+		<h4>So what I hope to do on this webstie is make it so that you have to login to get into the website I hope to do this with Python on the backend that is a long term project though<h4>
 
 	</body>
 </html>
